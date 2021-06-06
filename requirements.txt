@@ -1,0 +1,9 @@
+Flask==1.1.2
+Flask-GraphQL==2.0.1
+graphene>=2.1.8
+graphql-core==2.1
+graphene-sqlalchemy>=2.0
+pymysql>=0.10.0
+environs==8.0.0
+maya==0.6.1
+py2neo==4.3.0

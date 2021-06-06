@@ -1,0 +1,10 @@
+.idea
+.tox
+build
+cover
+devenv
+*.egg-info
+.coverage
+*.pyc
+.git
+__pycache__/
